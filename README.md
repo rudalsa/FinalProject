@@ -1,5 +1,5 @@
 # FinalProject
-Spring Framework를 사용하여 게임을 판매하는 쇼핑몰 웹 프로젝트입니다.
+Spring Framework 기반 그룹웨어 웹사이트
 
 # 개발 환경
 <ul>
